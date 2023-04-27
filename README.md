@@ -5,7 +5,7 @@
   - data distribution
   - machine learning with geochemical data
 
-Maybe you find something useful in my [r_code reposatory](https://github.com/HJ-HHuber/r_code).
+Maybe you find something useful in my [r_code repository](https://github.com/HJ-HHuber/r_code).
 
 <!---
 HJ-HHuber/HJ-HHuber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
